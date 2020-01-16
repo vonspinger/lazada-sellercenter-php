@@ -13,7 +13,7 @@ PHP 5.5 and later.
 You can install the bindings via Composer. Run the following command:
 
 ```bash
-composer require theroyalstudent/lazada-sellercenter-php
+composer require vonspinger/lazada-sellercenter-php
 ```
 
 To use the bindings, use Composer's autoload:
